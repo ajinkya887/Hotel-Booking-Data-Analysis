@@ -45,7 +45,7 @@ cancellations.
 3. The majority of clients are coming from offline travel agents to make their reservations.
 
 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture.PNG)
 
 ## Analysis and Findings
 
