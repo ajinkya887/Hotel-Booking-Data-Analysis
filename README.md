@@ -1,6 +1,6 @@
-# Airlines-Dashboard
+# Hotel Booking Data Analysis
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://github.com/ajinkya887/Hotel-Booking-Data-Analysis
 
 ## Problem Statement
 
@@ -45,33 +45,33 @@ cancellations.
 3. The majority of clients are coming from offline travel agents to make their reservations.
 
 
-![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture.PNG)
+
 
 ## Analysis and Findings
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture.PNG)
 
 The accompanying bar graph shows the percentage of reservations that are canceled and those that are not. It is obvious that there are still a significant number of reservations that have not been canceled. There are still 37% of clients who canceled their reservation, which has a significant impact on the hotels' earnings
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/capture%202.PNG)
 
 In comparison to resort hotels, city hotels have more bookings. It's possible that resort hotels are more expensive than those in cities.
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/3.PNG)
 
 The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture4.PNG)
 
 We have developed the grouped bar graph to analyze the months with the highest and lowest reservation levels according to reservation status. As can be seen, both the number of confirmed reservations and the number of canceled reservations are largest in the month of August. whereas January is the month with the most canceled reservations.
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture5.PNG)
 
 This bar graph demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation.
 
 Now, let's see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations
 
-images
+![Reservation Status](https://github.com/ajinkya887/Hotel-Booking-Data-Analysis/blob/main/Capture6.PNG)
 
 Let's check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
 
